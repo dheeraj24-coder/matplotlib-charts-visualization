@@ -1,5 +1,5 @@
 
-
+IPL-Matplotlib Charts Visualization
 # 📊 Matplotlib Charts Visualization
 
 A simple Python project that demonstrates how to create multiple charts using **Matplotlib**. This project displays four different chart types in a **2×2 subplot layout** with customized colors, titles, labels, and figure styling.
